@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/prof_name"
+        android:layout_width="wrap_content"
+        android:textSize="25sp"
+        android:layout_height="80sp"
+        android:layout_gravity="center"
+        />
+
+    <ImageView
+        android:id="@+id/prof_image"
+        android:layout_width="200sp"
+        android:layout_height="200sp"
+        android:layout_gravity="center" />
+    <TextView
+        android:id="@+id/takipçi"
+        android:layout_width="400sp"
+        android:textSize="20sp"
+        android:layout_height="30sp"
+        android:layout_gravity="center"
+        android:textColor="@color/White"
+        android:background="@color/Twitter"/>
+    <ImageView
+        android:id="@+id/tweet"
+        android:layout_width="400sp"
+        android:layout_height="100sp"
+        android:layout_marginTop="1sp"
+        android:src="@drawable/tweet_button"
+        android:layout_gravity="center" />
+    <ImageView
+        android:id="@+id/signout"
+        android:layout_width="400sp"
+        android:layout_height="100sp"
+        android:src="@drawable/signout_button"
+        android:layout_gravity="center" />
+
+</LinearLayout>
