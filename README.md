@@ -2,7 +2,7 @@
 ==============
 Herkese Merhaba 
 <br/>
-Bu projede Android programlarınızda kullanmak üzere bir Twitter uygulaması gelştirecez.  
+Bu projede Android programlarınızda kullanmak üzere bir Twitter uygulaması geliştirecez. Bu kısım düzenlenecek.   
 
 
 
