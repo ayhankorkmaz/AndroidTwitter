@@ -6,7 +6,7 @@
 
 
 
+<a href="http://ayhankorkmaz.net">AyhanKorkmaz.Net</a>
 
 
 
-[url="http://ayhankorkmaz.net"]AyhanKorkmaz.Net[/url]
